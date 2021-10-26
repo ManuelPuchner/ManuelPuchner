@@ -2,7 +2,7 @@
 ### Currently studying Information- and Media-Technology in school.
 ### At home, I'm learning React and NextJs as well as NodeJs and MongoDB
 
-[Here](https://manuelpuchner.ddns.net target="_blank") you can visit my website.
+<a href="https://manuelpuchner.ddns.net">Here</a> you can visit my website.
 
 <!--
 **ManuelPuchner/ManuelPuchner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
