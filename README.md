@@ -1,4 +1,4 @@
-## Hi, I'm Manuel, a young developer.
+## Hi, I'm Manuel.
 ### Currently studying Information- and Media-Technology in school.
 ### At home, I'm learning React and NextJs as well as NodeJs and MongoDB
 
