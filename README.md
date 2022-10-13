@@ -1,6 +1,5 @@
 ## Hi, I'm Manuel.
 ### Currently studying Information- and Media-Technology in school.
-### At home, I'm learning React and NextJs as well as NodeJs and MongoDB
 
 [Here](https://manuelpuchner.ddns.net) you can visit my website.
 
