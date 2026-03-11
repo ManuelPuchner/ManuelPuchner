@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuelpuchner&label=Profile%20views&color=0e75b6&style=flat" alt="manuelpuchner" /> </p>
 
-- 🔭 I’m currently working on **some school projects.**
+- 🔭 I’m currently working on **My own financial tracker**
 
 - 👯 I’m looking to collaborate on **interesting and new ideas**
 
-- 💬 Ask me about **react, nextjs and nodejs**
+- 💬 Ask me about **nextjs, quarkus and filamentphp**
 
 - ⚡ Fun fact **I love cooking**
 
